@@ -2,3 +2,5 @@ Welcome buddy!!!
 This is My first change.....
 git commit -a -m "This commit without stagging"
 perform git commit --amend 
+
+Added changes for check revert
