@@ -5,4 +5,9 @@ perform git commit --amend
 
 Added changes for check revert
 
+<<<<<<< HEAD
 Added changes for hard reset testing.
+=======
+Added changes for hard reset testing
+testing git revert
+>>>>>>> parent of 3580fd7 (Revert "This code Create Bug on production")
