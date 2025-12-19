@@ -5,4 +5,4 @@ perform git commit --amend
 
 Added changes for check revert
 
-Added changes for hard reset testing
+Added changes for hard reset testing.
